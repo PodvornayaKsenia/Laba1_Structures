@@ -1,0 +1,2 @@
+S mystack cherry apple 
+F mylist C D 

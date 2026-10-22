@@ -1,0 +1,3 @@
+F mylist one one front two 
+T mytree 5 10 
+S mystack apple 
